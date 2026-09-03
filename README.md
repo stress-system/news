@@ -8,4 +8,6 @@ Sources and wildcards always separated;
 Hobby project.
 Enjoy.
 
+Still settling structure, WIP.
+
 --S.
