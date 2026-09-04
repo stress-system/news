@@ -1,4 +1,4 @@
-# MON SEP 03 2026
+# TUE SEP 03 2026
 * WEEKLY ISSUE STD.
 * [SOURCE: PBS](https://www.pbs.org/newshour/world/u-s-iran-conflict-enters-new-phase-as-saudi-arabia-helps-hit-proxies-and-diplomacy-stalls)
 * SOURCE PUBLICATION DATE: 30 JUL 2026
