@@ -1,4 +1,7 @@
 # news
+
+[Latest installation](./work/2026\ Week\ 36/Work-foreign-PBS.md)
+
 News by me. A few sources, synthesized for your information.
 Condensed for brevity and rapid distribution.
 All workspaces presented as-is for transparency.
