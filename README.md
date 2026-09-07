@@ -1,6 +1,6 @@
 # news
 
-[Latest installation](</work/2026 Week 36/Work-foreign-PBS.md>)
+[Latest installation](</work/2026 Week 36/2026-09-06work-china-egypt.md>)
 
 News by me. A few sources, synthesized for your information.
 Condensed for brevity and rapid distribution.
